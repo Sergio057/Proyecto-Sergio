@@ -1,0 +1,9 @@
+[submodule "hugo-universal-theme"]
+	path = hugo-universal-theme
+	url = https://github.com/devcows/hugo-universal-theme
+[submodule "tale-hugo"]
+	path = tale-hugo
+	url = https://github.com/EmielH/tale-hugo
+[submodule "pehtheme-hugo"]
+	path = pehtheme-hugo
+	url = https://github.com/fauzanmy/pehtheme-hugo
